@@ -64,8 +64,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Elev8media - Elevate your Digital Marketing",
-        "meta_descr": "Elev8media is Australia's best digital marketing company. Elevate your business to the top with our services.",
+        "title": "ApexWeb - Digital Marketing Agency",
+        "meta_descr": "ApexWeb leads by example. Best digital marketing results in Australia by local marketing professionals.",
         "header_custom": "<META NAME=\"ROBOTS\" CONTENT=\"NOINDEX, NOFOLLOW\">",
         "footer_custom": "",
         "html_before": ""
